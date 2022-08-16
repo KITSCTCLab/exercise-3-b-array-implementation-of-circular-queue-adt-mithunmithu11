@@ -61,7 +61,7 @@ class MyCircularQueue:
         else:
             return False
 
-# Do not change the following code
+# Do not change the following cod
 operations = []
 for specific_operation in input().split(','):
     operations.append(specific_operation.strip())
